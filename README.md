@@ -67,8 +67,7 @@ vercel deploy
 ```
 For AWS deployment, configure AWS Lambda and API Gateway accordingly.
 
-## 🔗 Project Link
-[FinDash - Live Demo](https://your-live-demo-link.com)
+
 
 ## 🤝 Contributing
 Contributions are welcome! Follow these steps:
